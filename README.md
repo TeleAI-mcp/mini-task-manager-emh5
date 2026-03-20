@@ -1,2 +1,3 @@
-# mini-task-manager-emh5
-Automated issue comment bot repository
+# Mini Task Manager Emh5
+
+Automated issue comment bot repository.
